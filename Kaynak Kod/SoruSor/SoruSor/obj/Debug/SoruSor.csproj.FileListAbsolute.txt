@@ -1,0 +1,30 @@
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\bin\Debug\SoruSor.exe.config
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\bin\Debug\SoruSor.exe
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\bin\Debug\SoruSor.pdb
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\obj\Debug\SoruSor.csprojAssemblyReference.cache
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\obj\Debug\SoruSor.Form1.resources
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\obj\Debug\SoruSor.Properties.Resources.resources
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\obj\Debug\SoruSor.csproj.GenerateResource.cache
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\obj\Debug\SoruSor.csproj.CoreCompileInputs.cache
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\obj\Debug\SoruSor.exe
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\obj\Debug\SoruSor.pdb
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\obj\Debug\SoruSor.csproj.CopyComplete
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\obj\Debug\SoruSor.ayarlar.resources
+C:\Users\SUForce\Desktop\My Projects\SoruSor\SoruSor\obj\Debug\SoruSor.giris.resources
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\bin\Debug\SoruSor.exe.config
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\bin\Debug\SoruSor.exe
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\bin\Debug\SoruSor.pdb
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\obj\Debug\SoruSor.csprojAssemblyReference.cache
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\obj\Debug\SoruSor.ayarlar.resources
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\obj\Debug\SoruSor.Form1.resources
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\obj\Debug\SoruSor.giris.resources
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\obj\Debug\SoruSor.Properties.Resources.resources
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\obj\Debug\SoruSor.csproj.GenerateResource.cache
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\obj\Debug\SoruSor.csproj.CoreCompileInputs.cache
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\obj\Debug\SoruSor.csproj.CopyComplete
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\obj\Debug\SoruSor.exe
+C:\Users\SUForce\Desktop\My Projects\SoruSor\Kaynak Kod\SoruSor\SoruSor\obj\Debug\SoruSor.pdb
